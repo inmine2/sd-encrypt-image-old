@@ -1,1 +1,0 @@
-pyinstaller -F -w -n 解密程序_v2.exe app.py
